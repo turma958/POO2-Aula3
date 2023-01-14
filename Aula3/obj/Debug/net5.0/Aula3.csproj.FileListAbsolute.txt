@@ -1,0 +1,5 @@
+D:\Git\LetsCode\Turma958\Aula3\Aula3\Aula3\obj\Debug\net5.0\Aula3.csproj.AssemblyReference.cache
+D:\Git\LetsCode\Turma958\Aula3\Aula3\Aula3\obj\Debug\net5.0\Aula3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\LetsCode\Turma958\Aula3\Aula3\Aula3\obj\Debug\net5.0\Aula3.AssemblyInfoInputs.cache
+D:\Git\LetsCode\Turma958\Aula3\Aula3\Aula3\obj\Debug\net5.0\Aula3.AssemblyInfo.cs
+D:\Git\LetsCode\Turma958\Aula3\Aula3\Aula3\obj\Debug\net5.0\Aula3.csproj.CoreCompileInputs.cache
